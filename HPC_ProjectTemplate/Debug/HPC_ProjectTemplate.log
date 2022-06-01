@@ -1,0 +1,4 @@
+﻿  Source.cpp
+W:\HPC_ProjectTemplate\HPC_ProjectTemplate\Source.cpp(218,20): warning C4018: '<': signed/unsigned mismatch
+  Source.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  HPC_ProjectTemplate.vcxproj -> W:\HPC_ProjectTemplate\Debug\HPC_ProjectTemplate.exe
